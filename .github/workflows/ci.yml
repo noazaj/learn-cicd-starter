@@ -15,3 +15,14 @@ jobs:
 
       - name: Run unit tests
         run: go test -cover ./...
+
+  styles:
+    name: Styles
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Run formatter
+        run: test -z $(go fmt ./...)
