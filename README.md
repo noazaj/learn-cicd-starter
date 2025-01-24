@@ -1,4 +1,4 @@
-https://github.com/noazaj/learn-ccid-starter/actions/workflows/ci.yml/badge.svg
+![CI](https://github.com/noazaj/learn-ccid-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
