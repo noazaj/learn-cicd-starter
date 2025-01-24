@@ -1,4 +1,4 @@
-https://github.com/<noazaj>/<learn-ccid-starter>/actions/workflows/<ci.yml>/badge.svg
+https://github.com/noazaj/learn-ccid-starter/actions/workflows/ci.yml/badge.svg
 
 # learn-cicd-starter (Notely)
 
